@@ -2,7 +2,7 @@
  * stm32f407_spi.c
  *
  *  Created on: August 27, 2025
- *      Author: admin
+ *      Author: Rushikesh Ravi Lakadkar
  */
 
 #include "stm32f407_spi.h"
