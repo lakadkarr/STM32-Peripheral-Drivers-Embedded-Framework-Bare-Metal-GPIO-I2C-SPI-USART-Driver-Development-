@@ -1,12 +1,12 @@
 /*
- * stm3f407xx.h
+ * stm32f407.h
  *
  *  Created on: September 25, 2025
  *      Author: Rushikesh Ravi Lakadkar
  */
 
-#ifndef INC_STM3F407XX_H_
-#define INC_STM3F407XX_H_
+#ifndef INC_STM3F407_H_
+#define INC_STM3F407_H_
 
 #include<stddef.h>
 #include<stdint.h>
@@ -613,10 +613,10 @@ typedef struct
 #define USART_SR_LBD        			8
 #define USART_SR_CTS        			9
 
-#include "stm32f407xx_gpio_driver.h"
-#include "stm32f407xx_spi_driver.h"
-#include "stm32f407xx_i2c_driver.h"
-#include "stm32f407xx_usart_driver.h"
-#include "stm32f407xx_rcc_driver.h"
+#include "stm32f407_gpio.h"
+#include "stm32f407_spi_.h"
+#include "stm32f407_i2c_.h"
+#include "stm32f407_usart.h"
+#include "stm32f407_rcc.h"
 
 #endif /* INC_STM32F407_H_
