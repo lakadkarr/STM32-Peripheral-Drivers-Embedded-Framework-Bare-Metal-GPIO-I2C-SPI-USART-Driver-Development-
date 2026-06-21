@@ -1,5 +1,5 @@
 /*
- * stm3f407.h
+ * stm32f407.h
  *
  *  Created on: September 30, 2026
  *      Author: Rushikesh Ravi Lakadkar
