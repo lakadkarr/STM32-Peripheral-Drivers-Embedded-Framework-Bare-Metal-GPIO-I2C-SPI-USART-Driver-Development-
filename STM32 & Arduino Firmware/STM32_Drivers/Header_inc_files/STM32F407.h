@@ -614,8 +614,8 @@ typedef struct
 #define USART_SR_CTS        			9
 
 #include "stm32f407_gpio.h"
-#include "stm32f407_spi_.h"
-#include "stm32f407_i2c_.h"
+#include "stm32f407_spi.h"
+#include "stm32f407_i2c.h"
 #include "stm32f407_usart.h"
 #include "stm32f407_rcc.h"
 
