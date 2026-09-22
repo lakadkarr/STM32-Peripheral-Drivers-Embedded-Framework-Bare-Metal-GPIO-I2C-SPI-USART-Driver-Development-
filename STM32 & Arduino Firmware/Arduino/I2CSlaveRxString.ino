@@ -1,5 +1,6 @@
 // Wire Slave Receiver
 //Uno, Ethernet A4 (SDA), A5 (SCL)
+
 #include <Wire.h>
 
 #define MY_ADDR   0x68
